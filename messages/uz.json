@@ -1,0 +1,15 @@
+{
+    "Links": {
+        "home": "Bosh sahifa",
+        "about": "Biz haqimizda",
+        "contact": "Bog'lanish"
+    },
+     "Sentences": {
+        "hello": "Salom",
+        "about": "Biz haqimizda sahifasi" ,
+        "contact": "Bog'lanish sahifasi" ,
+        "profile": "Profill Sahifa"
+
+    }
+
+}

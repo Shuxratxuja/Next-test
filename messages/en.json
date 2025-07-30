@@ -1,0 +1,14 @@
+{
+    "Links": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "Sentences": {
+        "hello": "Hello",
+        "about": "AboutPage",
+        "contact": "ContactPage" ,
+        "profile": "ProfilePage"
+    }
+
+}
